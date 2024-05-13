@@ -1,17 +1,7 @@
-# exercicios10
-
 # Tela de Login - Flutter
 
 Tela de login simples, desenvolvida em um exercício de minha grade.
 Exercício realizado para treinar os conceitos de passagem de parâmetro no em Dart e validações.
-
-
-
-
-
-
-
-
 
 
 
